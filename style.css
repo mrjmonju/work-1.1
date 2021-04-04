@@ -1,0 +1,127 @@
+
+
+.sec-hvr {
+    background-color: white;
+    color: black;
+    transition: ease all .3s;
+}
+
+
+
+.sec-hvr:hover  {
+    background-color: #0d6efd;
+    color: white;
+    transition: all .6s;
+}
+
+.sec-hvr .sec-p{
+    color: #6c757d;
+}
+
+.sec-hvr:hover .sec-p {
+    color: white;
+}
+
+
+
+
+.card-hvr {
+    width: 14rem;
+    transform: scale(1.0);
+    transition: all .4s;
+}
+
+
+.card-hvr:hover {
+
+width: 14rem;
+
+transform: scale(1.1);
+
+
+}
+
+
+
+
+.m-card{
+    background: white;
+    color: black;
+    transition: all .4s;
+}
+
+
+
+
+.m-card:hover {
+    background: #0d6efd;
+    color: white;
+}
+
+
+
+.m-card1{
+
+    color: #0d6efd;
+    background: white;
+    transition: all .4s;
+    
+    }
+
+.m-card:hover .m-card1 {
+    background: #0d6dfded;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+.icon_size
+{
+    max-width: 17%;
+    
+}
+
+.padding-h
+{
+    padding-right: 33%;
+    font-weight: 400;
+}
+
+
+.card-edit{
+    border: 0px;
+}
+
+
+.min-mrg{
+    margin-left: -61px;
+}
+
+
+@media (max-width: 575.98px)
+
+{
+
+    .media-1{
+        width: 100%;
+        --bs-gutter-x: 9rem;
+    }
+    .media-2{
+        width: 12rem;
+    margin: auto;
+    }
+
+}
+
+
+
+
+
+
+/* <!--start section hiring made easy --> */
